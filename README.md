@@ -4,7 +4,7 @@
 
 ## Coursera
 
-- :green_circle:[Basic Information Literacy](Basic_information_literacy/practice.md)
+- :green_circle:[Basic Information Literacy](Basic_information_literacy/Practice.md)
 
 <!--
 
