@@ -4,9 +4,10 @@
 
 ## Coursera
 
-- :green_circle:
+- :green_circle:[Basic Information Literacy](../Basic_information_literacy/practice.md)
 
 <!--
+
 ## XUETANG ZAIXIAN
 ## 中国大学慕课
 -->
