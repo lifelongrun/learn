@@ -4,9 +4,15 @@
 
 ## Coursera
 
+![Coursera Logo](/Basic_information_literacy/images/Coursera-New-Banner.png)
+
 - :green_circle:[Basic Information Literacy](Basic_information_literacy/Practice.md)
 
+
+
 <!--
+
+## Udemy
 
 ## XUETANG ZAIXIAN
 ## 中国大学慕课
