@@ -43,7 +43,7 @@ Mind mapping is a convenient tool for people who want to make their idea clear a
 
 Conversation and mind mapping are beneficial methods for most of us to develop our understanding of materials profoundly when we do some information literacy. So everyone could use these two tools more often to train the brain and our ability to digest the knowledge we've collected. **(submitted)**
 
-## Week 2 - Identifying your information need
+## Week 2 - Identifying your information need:heavy_check_mark:
 
 **Learning Objectives**:
 
@@ -101,7 +101,7 @@ Database --> 1([OPEN WEB]) & 2([DEEP WEB])
 
 The database is like a repository that stores all digital items like e-books, paper, videos, music, photo and other information that people can reach on the internet. It's diverse, but mainly providing video a visual space to show people some specific information and it's usually paid and has a piece of huge information inside. The best source for scholarly peer-reviewed articles is the Journal database, and when I need to know something more scholarly, I have to access the scholar database through the library instead of just searching some web pages. So when I'm doing research and want to increase the credibility of my experiment, I will refer to the database. **(submitted)**
 
-## Week 3 - Searching: Finding the right tools to meet your information need
+## Week 3 - Searching: Finding the right tools to meet your information need:heavy_check_mark:
 
 **Learning Objectives**:
 
@@ -167,3 +167,14 @@ Scholarly articles, included
 Firstly, I run a basic search using the phrase *hydrogen admixture combustion* which gets me about 144 results. And they're not all related closely to what I really want. 
 
 When I switch to advanced search using the phrase *"hydrogen admixture" AND combustion* results in only 25 results. The quotation with *hydrogen admixture* extremely makes the results exactly match  the phrase what I typed; the keyword *combustion* means anything including the word *combustion*, the boolean operator AND between *"hydrogen admixture"* and *combustion* tremendously narrowed the search results from 144 to 25, and the results I'm done become more precise, neat and relevant. **(submitted)**
+
+## Week 4 - Evaluating what you've found
+
+**Learning Objectives**:
+
+- Identify the relevant parts of a resource
+- Choose appropriate sources
+- Evaluate author's credentials
+
+### Authority
+
