@@ -25,9 +25,7 @@
 
 :red_circle:Prompt: In your own words define information literacy. Include the concepts of a conversation and mind mapping in your response.(submitted):white_check_mark:
 
-:pencil2:
-
-**Information literacy**
+:pencil2:**Information literacy**
 
 In my view, information literacy means two things. The first thing is about literacy reading which means a lot of paper basic information searching and reading work need to be done, and the second thing is related to information analysis, as well as how to find and discover the most valuable information from the materials that have collected.
 
