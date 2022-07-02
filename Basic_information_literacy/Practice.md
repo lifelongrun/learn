@@ -25,7 +25,9 @@
 
 :red_circle:Prompt: In your own words define information literacy. Include the concepts of a conversation and mind mapping in your response.(submitted):white_check_mark:
 
-:pencil2:**Information literacy**
+:pencil2:
+
+**Information literacy**
 
 In my view, information literacy means two things. The first thing is about literacy reading which means a lot of paper basic information searching and reading work need to be done, and the second thing is related to information analysis, as well as how to find and discover the most valuable information from the materials that have collected.
 
@@ -133,7 +135,7 @@ Share your search strategy and have others comment on it for suggestions.
 
 :pencil2:My topic is hydrogen blending combustion with natural gas, so the keyword is Hydrogen AND "Natural gas" and Combustion. For hydrogen/hydrogen blending, its synonym would be "h2"/"hydrogen admixture"; for "Combustion", its synonym could be "Flame" . So my final search strategy is like this: Hydrogen OR h2 OR "Hydrogen blending" OR "Hydrogen admixture" AND "Natural gas" and Combustion OR Flame. And I would like to use this in Science Direct, and I would narrow the search results by limiting the year within the last five years. **(submitted)**
 
-### Using Boolean Operators (aka AND, OR, & NOT)
+### Using Boolean Operators (aka AND, OR, & NOT):white_check_mark:
 
 ### Required Videos:white_check_mark:
 
@@ -166,7 +168,7 @@ Firstly, I run a basic search using the phrase *hydrogen admixture combustion* w
 
 When I switch to advanced search using the phrase *"hydrogen admixture" AND combustion* results in only 25 results. The quotation with *hydrogen admixture* extremely makes the results exactly match  the phrase what I typed; the keyword *combustion* means anything including the word *combustion*, the boolean operator AND between *"hydrogen admixture"* and *combustion* tremendously narrowed the search results from 144 to 25, and the results I'm done become more precise, neat and relevant. **(submitted)**
 
-## Week 4 - Evaluating what you've found
+## Week 4 - Evaluating what you've found:heavy_check_mark:
 
 **Learning Objectives**:
 
@@ -174,5 +176,74 @@ When I switch to advanced search using the phrase *"hydrogen admixture" AND comb
 - Choose appropriate sources
 - Evaluate author's credentials
 
-### Authority
+### Authority:white_check_mark:
 
+:memo:**What is an authority?**
+
+- An expert
+- A scholar
+- An eye witness to an event
+- Public office/title
+
+**An authority is constructed and contextual:**
+
+- Credentials 
+- Experience
+- Societal Status
+- Education
+- Association with an organization
+
+**How to assess authority?**
+
+- Google the related information about the person, like name
+  - Have a profile page on a university website?
+- What are their credentials?
+  - Do they have special training or education?
+  - Have they published in their area of expertise?
+- What do their peers have to say about them?
+  - What is their professional reputation?
+
+:red_circle:Discussion Prompt: What are you an authority in?  What makes you an authority?
+
+:pencil2:I think I'm becoming more like an authority in Chemical engineering stuffs, because I've took part in some related projects, and I learned a lot from the practice doing. 
+
+### Required Videos:white_check_mark:
+
+**Evaluating Academic Resources**
+
+:memo:**The C.R.A.A.P Test (stands for):**
+
+- C - Currency
+- R - Relevance
+- A - Authority
+- A - Accuracy
+- P - Purpose
+
+**Evaluating Sources Practice**
+
+:red_circle:Discussion Prompt: Take a look at the following article: https://www.propublica.org/article/climate-infectious-diseases  
+
+Evaluate the article using the CRAAP Test and share your results.  
+
+:pencil2:The article was written in 2020 means it's new and close to our society, it mainly talked about human's behavior resulting in climate change and appealed on attaching importance to it, and in order to increase that credibility, some view points from the experts were cited, and peer-viewed papers were used to make it more reliable.  So I think it's authentic and valuable.
+
+### End of Module Quiz:white_check_mark:
+
+:red_circle:This is Leonardo DiCaprio. He is an actor. He also runs this organization https://www.leonardodicaprio.org/cultural-survival-and-rainforest-protection/. He Tweeted this response out about the 2019 Amazon rainforest fires, https://www.ladbible.com/news/news-leonardo-dicaprio-urges-people-to-save-amazon-rainforest-20190822
+
+Is he an authority? Would you be comfortable relying on his information and expertise?
+
+Project title: John Mike's assignment
+
+:pencil2:In my opinion, Leonardo actually is  an movie actor and he has played many awesome movies, he is an authority in his field of films. Therefore when it comes to environmental issues, I think it's taken out of the context of  his expertise, maybe he does have an organization of protecting natural wild environment, but that doesn't mean he is more credible in environment protection than anyone else, because the relevance between him and his organization can not instead of the importance of authority if it goes with the CRAAP test. 
+
+## Week 5 - Giving credit, AKA citing
+
+**Learning Objectives**:
+
+- Distinguish between copyright free and copyright protected works
+- Construct a citation
+- Identify parts of a citation
+- Identify the parts of an APA citation
+
+### Plagiarism
