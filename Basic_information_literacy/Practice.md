@@ -1,6 +1,6 @@
 
 
-# Basic Information Literacy
+# Basic Information Literacy:heavy_check_mark:
 
 ## Week 1 - Course Introduction: Understanding Information Literacy:heavy_check_mark:
 
@@ -205,7 +205,7 @@ When I switch to advanced search using the phrase *"hydrogen admixture" AND comb
 
 :red_circle:Discussion Prompt: What are you an authority in?  What makes you an authority?
 
-:pencil2:I think I'm becoming more like an authority in Chemical engineering stuffs, because I've took part in some related projects, and I learned a lot from the practice doing. 
+:pencil2:I think I'm becoming more like an authority in Chemical engineering stuffs, because I've took part in some related projects, and I learned a lot from the practice doing. **(submitted)**
 
 ### Required Videos:white_check_mark:
 
@@ -225,7 +225,7 @@ When I switch to advanced search using the phrase *"hydrogen admixture" AND comb
 
 Evaluate the article using the CRAAP Test and share your results.  
 
-:pencil2:The article was written in 2020 means it's new and close to our society, it mainly talked about human's behavior resulting in climate change and appealed on attaching importance to it, and in order to increase that credibility, some view points from the experts were cited, and peer-viewed papers were used to make it more reliable.  So I think it's authentic and valuable.
+:pencil2:The article was written in 2020 means it's new and close to our society, it mainly talked about human's behavior resulting in climate change and appealed on attaching importance to it, and in order to increase that credibility, some view points from the experts were cited, and peer-viewed papers were used to make it more reliable.  So I think it's authentic and valuable. **(submitted)**
 
 ### End of Module Quiz:white_check_mark:
 
@@ -235,9 +235,9 @@ Is he an authority? Would you be comfortable relying on his information and expe
 
 Project title: John Mike's assignment
 
-:pencil2:In my opinion, Leonardo actually is  an movie actor and he has played many awesome movies, he is an authority in his field of films. Therefore when it comes to environmental issues, I think it's taken out of the context of  his expertise, maybe he does have an organization of protecting natural wild environment, but that doesn't mean he is more credible in environment protection than anyone else, because the relevance between him and his organization can not instead of the importance of authority if it goes with the CRAAP test. 
+:pencil2:In my opinion, Leonardo actually is  an movie actor and he has played many awesome movies, he is an authority in his field of films. Therefore when it comes to environmental issues, I think it's taken out of the context of  his expertise, maybe he does have an organization of protecting natural wild environment, but that doesn't mean he is more credible in environment protection than anyone else, because the relevance between him and his organization can not instead of the importance of authority if it goes with the CRAAP test. **(submitted)**
 
-## Week 5 - Giving credit, AKA citing
+## Week 5 - Giving credit, AKA citing:heavy_check_mark:
 
 **Learning Objectives**:
 
@@ -246,4 +246,92 @@ Project title: John Mike's assignment
 - Identify parts of a citation
 - Identify the parts of an APA citation
 
-### Plagiarism
+### Plagiarismz:white_check_mark:
+
+:red_circle:Discussion Prompt: Can you think of an example of plagiarism from your own life?  Either yourself or someone you know?  What were the consequences, if any?  Can you think of any possible consequences other than the ones discussed in this lesson?
+
+:pencil2:As soon as I've known, there was an actor who made plagiarism when he was writing his own graduate paper pursuing the Ph.D degree. And when he did live streaming on the internet, his fellows talked about a most commonly used Chinese scholarly journal database — CNKI, he responded that he had no idea about it, it seemed that he had never heard of it until then and never did research with it which made a lot of people being curious of how he was able to finish his Ph.D without knowing the famous database of the CNKI in China. After the official investigation, his behaviour was judged to be plagiarism and his already got Ph.D degree was taken back by the apartment to which he belonged before. Its consequence is really serious and every one of us should take plagiarism into account to avoid its negative influence which could destroy the whole stuff, like solid research conclusions and well-known reputation that the one ever build for himself. **(submitted)**
+
+### APA Citations:white_check_mark:
+
+:red_circle:Discussion Prompt: **APA Citation Practice**
+
+Practice your APA Citation Skills.  Write a citation for the following article:
+
+https://www.propublica.org/article/climate-infectious-diseases  
+
+Share your citation.
+
+:pencil2:I used a citation generator which was mentioned in the former video, and the homepage of the online website is: https://www.purdue.edu/ , the specific link is [here](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for citing your source automatically in APA.
+
+---
+
+Lustgarten, A. (2020, May 7). *How climate change is contributing to skyrocketing rates of infectious disease*. 			ProPublica. Retrieved July 3, 2022, from https://www.propublica.org/article/climate-infectious-diseases 
+
+---
+
+**(submitted)**
+
+### Optional Reading:white_check_mark:
+
+:red_circle:**Reading: 21st Century Learning and Information Literacy**
+
+Using the skills and resources you have learned in this course, find the article   “21st Century Learning and Information Literacy” By Patricia Senn Breivik and read it as your final optional reading assignment. 
+
+:pencil2:
+
+---
+
+Breivik, P. S. (2005). 21st century learning and information literacy. *Change: the magazine of higher learning*, *37*(2), 21-27.
+
+---
+
+(The PDF file is found online through library database and the citation upside is taken from Google Scholar)
+
+### End of Module Quiz:white_check_mark:
+
+:red_circle:**Create a citation for the following article:**
+
+https://www.newsweek.com/vaccine-acne-could-be-one-step-closer-after-finding-1097821  
+
+**Review criteria**
+
+1. Create 2 citations for this article from two different citation generators.
+
+2. Using one of them, compare it to the resources in the Purdue OWL and create a correct citation in APA 7th.
+
+:pencil2:I get two different citations from two different citation generator web page: 
+
+Citation A below is from the citation generator website: https://www.citationmachine.net/
+
+---
+
+Georgiou, A. (2018, August 30). *A vaccine for acne could be one step closer after this finding*. Newsweek. Retrieved July 3, 2022, from https://www.newsweek.com/vaccine-acne-could-be-one-step-closer-after-finding-1097821 
+
+---
+
+Citation B below is from the citation generator website: https://www.easybib.com/
+
+---
+
+Georgiou, Aristos. “A Vaccine for Acne Could Be One Step Closer after This Finding.” *Newsweek*, Newsweek, 30 Aug. 2018, https://www.newsweek.com/vaccine-acne-could-be-one-step-closer-after-finding-1097821. 
+
+---
+
+And citation A is in APA 7th, so when it's compared to citation B, you could see some differences between them, like the title should be  in italics and without quotation mark, and the location of the published date within parentheses should be between author's name and the title. The word "Retrieved" about the date also should be pointed out. **(submitted)**
+
+### Final Exam:white_check_mark:
+
+In this last part, I finished making judgments about some practical questions to put what I've learned into practice and get it through.
+
+---
+
+**Write a note to your instructors.**
+Some tips:
+Tell your instructors about yourself.
+Why did you take the course? How has it helped you?
+What did you love about the course? Tell them!
+
+**Some comments about this course:**
+
+First of all, I do thank all instructors for their explanation about what is information literacy and why it is important, how it works. And I do learn a lot about basic information literacy information, like how to find and identify information, how to assess it and finally how to cite it correctly in-text, that's all just what I need. Secondly, I LOVE the course's current design style and the people who have taught me how to make it happen. Thank you all :-)
