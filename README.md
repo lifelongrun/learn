@@ -26,9 +26,12 @@
 - :closed_book: [Basic Information Literacy](Basic_information_literacy/Practice.md):heavy_check_mark:
 - :book:[Understanding Research Methods](Understanding_Research_Methods/Research_method.md):triangular_flag_on_post::memo:
 
-<!--
-
 ## Udemy
+
+- :closed_book:[Inkscape for Scientists and Engineers](Inkscape_for_Scientists_and_Engineers/Inkscape.md):heavy_check_mark:
+- :book:[100 Days of Code](100days_python/Python_to_100.md):triangular_flag_on_post::memo:
+
+<!--
 
 ## XUETANG ZAIXIAN
 ## 中国大学慕课
