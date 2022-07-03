@@ -14,7 +14,7 @@ Ans  2
 
 [Free Download link](https://inkscape.org/)
 
-![image-20220704011233202](images\download.png)
+![image-20220704011233202](images/download.png)
 
 ## Basic usage
 
