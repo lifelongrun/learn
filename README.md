@@ -28,6 +28,8 @@
 
 ## Udemy
 
+![udemy_logo](X-Best-Udemy-Sales-Courses-1024x669.png)
+
 - :closed_book:[Inkscape for Scientists and Engineers](Inkscape_for_Scientists_and_Engineers/Inkscape.md):heavy_check_mark:
 - :book:[100 Days of Code](100days_python/Python_to_100.md):triangular_flag_on_post::memo:
 
