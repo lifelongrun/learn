@@ -48,8 +48,8 @@
 
 - :closed_book:[ 从爱因斯坦到霍金的宇宙](icourse/aiyinshitan):heavy_check_mark:
 - :closed_book:[小词中的修养境界](/icourse/xiaoci):heavy_check_mark:
-- :closed_book:[21世纪的工程人才：知识、能力和素质](/21century):heavy_check_mark:
-- :book:[科技信息图示设计](/kejitu):memo:
+- :closed_book:[21世纪的工程人才：知识、能力和素质](/icourse/21century):heavy_check_mark:
+- :book:[科技信息图示设计](/icourse/kejitu):memo:
 
 ## Ted
 
