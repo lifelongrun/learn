@@ -1,4 +1,4 @@
-# John Mike's Personal Online learning Repository
+# Online learning Repository
 
 [The Author's Blog](https://69mike.com)
 
@@ -33,7 +33,7 @@
 
 - :closed_book:[Inkscape for Scientists and Engineers](/udemy/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
 - :book:[How to Write a Successful Research Paper](/udemy//How_to_Write_a_Successful_Research_Paper):memo:
-- :book:[100 Days of Code](/udemy//100days_python):triangular_flag_on_post::memo:
+- :book:[100 Days of Code](/udemy//100days_python):memo:
 
 <!--
 
@@ -42,12 +42,14 @@
 
 ## XUETANG ZAIXIAN
 
-- :book:[肖星的财务思维课](/xuetangzx/caiwusiwei)
+- :book:[肖星的财务思维课](/xuetangzx/caiwusiwei):memo:
 
 ## 爱课程
 
-- :closed_book:[ 从爱因斯坦到霍金的宇宙](icourse/aiyingshiyan):heavy_check_mark:
+- :closed_book:[ 从爱因斯坦到霍金的宇宙](icourse/aiyinshitan):heavy_check_mark:
 - :closed_book:[小词中的修养境界](/icourse/xiaoci):heavy_check_mark:
+- :closed_book:[21世纪的工程人才：知识、能力和素质](/21century):heavy_check_mark:
+- :book:[科技信息图示设计](/kejitu):memo:
 
 ## Ted
 
