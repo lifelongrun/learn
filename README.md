@@ -22,16 +22,17 @@
 
 :bird:**Bird View** of the Courses I've taken Or been taking:
 
-- :closed_book: [Introduction to git and Github](/Git/Git_Notes.md):heavy_check_mark:
-- :closed_book: [Basic Information Literacy](Basic_information_literacy/Practice.md):heavy_check_mark:
-- :book:[Understanding Research Methods](Understanding_Research_Methods/Research_method.md):triangular_flag_on_post::memo:
+- :closed_book: [Introduction to git and Github](/Git):heavy_check_mark:
+- :closed_book: [Basic Information Literacy](/Basic_information_literacy):heavy_check_mark:
+- :book:[Understanding Research Methods](/Understanding_Research_Methods):triangular_flag_on_post::memo:
+- :book:[Introduction to Research for Essay Writing](/Introduction_to_Research_for_Essay_Writing)
 
 ## Udemy
 
 ![udemy_logo](X-Best-Udemy-Sales-Courses-1024x669.png)
 
-- :closed_book:[Inkscape for Scientists and Engineers](Inkscape_for_Scientists_and_Engineers/Inkscape.md):heavy_check_mark:
-- :book:[100 Days of Code](100days_python/Python_to_100.md):triangular_flag_on_post::memo:
+- :closed_book:[Inkscape for Scientists and Engineers](/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
+- :book:[100 Days of Code](/100days_python):triangular_flag_on_post::memo:
 
 <!--
 
