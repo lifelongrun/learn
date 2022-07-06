@@ -4,7 +4,7 @@
 
 ## Coursera
 
-![Coursera Logo](/Basic_information_literacy/images/Coursera-New-Banner.png)
+![Coursera Logo](/coursera/Basic_information_literacy/images/Coursera-New-Banner.png)
 
 ---
 
@@ -22,18 +22,18 @@
 
 :bird:**Bird View** of the Courses I've taken Or been taking:
 
-- :closed_book: [Introduction to git and Github](/Git):heavy_check_mark:
-- :closed_book: [Basic Information Literacy](/Basic_information_literacy):heavy_check_mark:
-- :book:[Understanding Research Methods](/Understanding_Research_Methods):triangular_flag_on_post::memo:
-- :book:[Introduction to Research for Essay Writing](/Introduction_to_Research_for_Essay_Writing)
+- :closed_book: [Introduction to git and Github](/coursera/Git):heavy_check_mark:
+- :closed_book: [Basic Information Literacy](/coursera/Basic_information_literacy):heavy_check_mark:
+- :book:[Understanding Research Methods](/coursera/Understanding_Research_Methods):triangular_flag_on_post::memo:
+- :book:[Introduction to Research for Essay Writing](/coursera/Introduction_to_Research_for_Essay_Writing)
 
 ## Udemy
 
-![udemy_logo](X-Best-Udemy-Sales-Courses-1024x669.png)
+![udemy_logo](/udemy/X-Best-Udemy-Sales-Courses-1024x669.png)
 
-- :closed_book:[Inkscape for Scientists and Engineers](/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
-- :book:[How to Write a Successful Research Paper](/How_to_Write_a_Successful_Research_Paper):memo:
-- :book:[100 Days of Code](/100days_python):triangular_flag_on_post::memo:
+- :closed_book:[Inkscape for Scientists and Engineers](/udemy/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
+- :book:[How to Write a Successful Research Paper](/udemy//How_to_Write_a_Successful_Research_Paper):memo:
+- :book:[100 Days of Code](/udemy//100days_python):triangular_flag_on_post::memo:
 
 <!--
 
@@ -42,12 +42,14 @@
 
 ## XUETANG ZAIXIAN
 
-- 
+- :book:[肖星的财务思维课](/xuetangzx/caiwusiwei)
 
 ## 爱课程
 
-- :closed_book:[ 从爱因斯坦到霍金的宇宙](aiyingshiyan):heavy_check_mark:
+- :closed_book:[ 从爱因斯坦到霍金的宇宙](icourse/aiyingshiyan):heavy_check_mark:
+- :closed_book:[小词中的修养境界](/icourse/xiaoci):heavy_check_mark:
 
 ## Ted
 
-- :closed_book:[Why I live in mortal dread of public speaking](https://www.ted.com/talks/megan_washington_why_i_live_in_mortal_dread_of_public_speaking)
+- :closed_book:[Why I keep speaking up, even when people mock my accent](/ted):heavy_check_mark:
+- :closed_book:[Why I live in mortal dread of public speaking](/ted):heavy_check_mark:
