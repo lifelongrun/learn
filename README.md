@@ -32,10 +32,22 @@
 ![udemy_logo](X-Best-Udemy-Sales-Courses-1024x669.png)
 
 - :closed_book:[Inkscape for Scientists and Engineers](/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
+- :book:[How to Write a Successful Research Paper](/How_to_Write_a_Successful_Research_Paper):memo:
 - :book:[100 Days of Code](/100days_python):triangular_flag_on_post::memo:
 
 <!--
 
-## XUETANG ZAIXIAN
 ## 中国大学慕课
 -->
+
+## XUETANG ZAIXIAN
+
+- 
+
+## 爱课程
+
+- :closed_book:[ 从爱因斯坦到霍金的宇宙](aiyingshiyan):heavy_check_mark:
+
+## Ted
+
+- :closed_book:[Why I live in mortal dread of public speaking](https://www.ted.com/talks/megan_washington_why_i_live_in_mortal_dread_of_public_speaking)
