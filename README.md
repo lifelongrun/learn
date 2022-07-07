@@ -34,6 +34,7 @@
 - :closed_book:[Inkscape for Scientists and Engineers](/udemy/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
 - :book:[How to Write a Successful Research Paper](/udemy//How_to_Write_a_Successful_Research_Paper):memo:
 - :book:[100 Days of Code](/udemy//100days_python):memo:
+- :book:[English Grammar Launch: Upgrade your speaking and listening](/udemy/English_Grammar_Launch):memo:
 
 <!--
 
