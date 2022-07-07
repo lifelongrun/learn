@@ -8,6 +8,6 @@
 
 Here is what my hand-writing looks like:
 
-![hand-writing](/images/Image from 7-7-22, 22.37.jpeg)
+![hand-writing](images/Imagefrom-7-7-22-22.37.jpeg)
 
 ## Section 3: Enough and too
