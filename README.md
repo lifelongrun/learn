@@ -88,11 +88,18 @@ Here is the answer hiding in the graph, and *just for fun*:
 - [How to improve your listening skills](https://www.youtube.com/watch?v=Y9LBUf1NzU0) from Long Beach City College, 2011
   - here is a [list](https://www.youtube.com/playlist?list=PLGpClaI8mTmopP6d4-EYBuWDnwg_IHZUC) of the whole related content on YouTube.
 - [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&t=597s) by Larry McEnerney, 2014
+- [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) by Leslie Lamport, 2014
 - [How Do I Communicate With Greater Clarity, Confidence, and Credibility?](https://www.youtube.com/watch?v=MiRmyn-hDfU) by Jayne Latz, 2015
 
 - [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) by Randy Pausch, 2018:heavy_check_mark:
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY&list=PLxkPF249i-__Y1sPwAvZ94ro6sMdKvju0&index=2) by Patrick Winston, 2018:heavy_check_mark:
 
 ## End
+
+Sometimes, but not most often, I can easily get a knowing through seeing what other people are doing and thinking. And it's obviously easier to take a concise knowing from the former people who have already concluded  instead of a truly understanding, so how to make an understanding more deeply? Here is an saying appearing in Leslie Lamport's presentation with his speech *Thinking Above the Code*: 
+
+> If you're thinking without writing, you only think you're thinking.  
+
+So I choose to write something down even more often.
 
 *Please enjoy yourself.*
