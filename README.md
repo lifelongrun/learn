@@ -1,6 +1,14 @@
 # Online learning Repository
 
-[The Author's Blog](https://69mike.com)
+## Introduction
+
+Regarding Someone may inquiry: **why do you do this ?**
+
+Here is the answer hiding in the graph:
+
+![Self-fulfillment](images/Self-fulfillment.svg)
+
+*[So who r u ?](https://69mike.com)*
 
 ## Coursera
 
