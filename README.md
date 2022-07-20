@@ -94,6 +94,12 @@ Here is the answer hiding in the graph, and *just for fun*:
 - [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) by Randy Pausch, 2018:heavy_check_mark:
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY&list=PLxkPF249i-__Y1sPwAvZ94ro6sMdKvju0&index=2) by Patrick Winston, 2018:heavy_check_mark:
 
+### Growth
+
+- [志高](https://v.youku.com/v_show/id_XMTM3MjE0MzMyMA==.html?spm=a2h1n.8251843.playList.5!3~5~A&f=51235271&o=1) by [孙正义](https://zh.wikipedia.org/zh-cn/%E5%AD%AB%E6%AD%A3%E7%BE%A9), 2011:heavy_check_mark:
+- [Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by Steve Jobs, 2005:heavy_check_mark:
+- [Baccalaureate address to Princeton University's Class of 2010](https://www.youtube.com/watch?v=vBmavNoChZc) by Jeff Bezos ([ZN](https://zh.m.wikipedia.org/zh-hans/%E6%9D%B0%E5%A4%AB%C2%B7%E8%B4%9D%E7%B4%A2%E6%96%AF)/[US](https://en.wikipedia.org/wiki/Jeff_Bezos)), 2010:heavy_check_mark:
+
 ## End
 
 Sometimes, but not most often, I can easily get a knowing through seeing what other people are doing and thinking. And it's obviously easier to take a concise knowing from the former people who have already concluded  instead of a truly understanding, so how to make an understanding more deeply? Here is an saying appearing in Leslie Lamport's presentation with his speech *Thinking Above the Code*: 
