@@ -18,12 +18,15 @@ As we've already known that Inkscape is an open-source software, so there are  a
 
 In order to draw out the desired product as soon as possible, sometime I would choose to use some free or paid raw designing materials, here is a list that may usually use and could save a lot of rewheeling the tire time:
 
-**Free**
+**Free** matrials
 
 - [Freesvg](https://freesvg.org/)
 - [Pixabay](https://pixabay.com/)
+- [pngfind](https://www.pngfind.com/): included all materials are in .png format.
+- [SVG REPO](https://www.svgrepo.com/): includes free svg and icons.
+- [Unsplash](https://unsplash.com/): free high quality pictures.
 
-Paid
+Paid materials
 
 - [Freepik](https://www.freepik.com/)
 - [Icon8](https://icons8.com/)
