@@ -92,7 +92,6 @@ I don't understand your language at all, so please write in English to make othe
 
 Your question is kind of like belonging to the research field about social science, so you can add a background to tell readers why is this question importance? And what's the main issue inside the question should be solved?  I think maybe you could make it more narrow and looks like more specific. **(submitted)**
 
-## Week 2 - E-tivity 2: What Is a Literature Review and Why Do We Need to Do One?
 ## Week 2 - E-tivity 2: What Is a Literature Review and Why Do We Need to Do One?:heavy_check_mark: 
 
 **Purpose:** To familiarise yourself with the nature and benefits of conducting a literature review.
