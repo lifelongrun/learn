@@ -58,7 +58,9 @@ You will be evaluated on whether the submission was genuine. Your peers will als
 
 Project title: My research questions
 
-:pencil2:Hydrogen as a corbon-free fuel is expected to be fundamental clean energy in the future. At present, many researchers are studying how to blend hydrogen into natural gas to combust more effectively and safely because the combustion of hydrogen-enriched natural gas has some issues, like flame instability, and how to prevent its explosion, how to impact the current domestic/ commercial/ industrial appliances, and how to optimize these devices in order to accommodate the hydrogen admixture with natural gas. **(submitted)**
+:pencil2:Hydrogen as a carbon-free fuel is expected to be fundamental clean energy in the future. At present, many researchers are studying how to blend hydrogen into natural gas to combust more effectively and safely because the combustion of hydrogen-enriched natural gas has some issues, like flame instability, and how to prevent its explosion, how to impact the current domestic/ commercial/ industrial appliances, and how to optimize these devices in order to accommodate the hydrogen admixture with natural gas. 
+
+**(submitted)**
 
 1. **Peer-graded Assignment**
 
@@ -66,7 +68,9 @@ Project title: My research questions
 
 :pencil2:Feedback
 
-Sorry for that I don't have background knowledge of your topic, however, I think your question is very concrete. But as a reader I actually don't know what the question means, why it should be a significant question? What's your proof to persuade me of what you've proposed? So you can give more reasonable explanations for a better understanding. **(submitted)**
+Sorry for that I don't have background knowledge of your topic, however, I think your question is very concrete. But as a reader I actually don't know what the question means, why it should be a significant question? What's your proof to persuade me of what you've proposed? So you can give more reasonable explanations for a better understanding. 
+
+**(submitted)**
 
 2. **Peer-graded Assignment**
 
@@ -74,7 +78,9 @@ Sorry for that I don't have background knowledge of your topic, however, I think
 
 :pencil2:Feedback
 
-Can you write more sentences to specify what you've already known and not yet? Your answer is too short and there is no more information than I could know that "I don't know myself". So the basic advice is to write more sentences to narrow down what exactly you're questioning instead of a superficial answer. **(submitted)**
+Can you write more sentences to specify what you've already known and not yet? Your answer is too short and there is no more information than I could know that "I don't know myself". So the basic advice is to write more sentences to narrow down what exactly you're questioning instead of a superficial answer. 
+
+**(submitted)**
 
 3. **Peer-graded Assignment**
 
@@ -82,7 +88,9 @@ Can you write more sentences to specify what you've already known and not yet? Y
 
 :pencil2:Feedback
 
-I don't understand your language at all, so please write in English to make other people to understand what you've written more easily. And a research question should be based on a research background which means the information you collected before should mostly come from the peer-viewd scholarly journals instead of one webpage or some other sources like social media platform. **(submitted)**
+I don't understand your language at all, so please write in English to make other people to understand what you've written more easily. And a research question should be based on a research background which means the information you collected before should mostly come from the peer-viewd scholarly journals instead of one webpage or some other sources like social media platform. 
+
+**(submitted)**
 
 4. **Peer-graded Assignment**
 
@@ -280,7 +288,7 @@ Although you've written every aspect of the three methods,  well organizing what
 
 **(submitted)**
 
-## Week 4 - E-tivity 4: How Do You Know You Have Been a Good 
+## Week 4 - E-tivity 4: How Do You Know You Have Been a Good :heavy_check_mark: 
 
 **Purpose:** To reflect upon the value of a good question, and provide an outline research proposal.
 
@@ -290,4 +298,78 @@ Response: Provide feedback on three or more proposals submitted by your fellow s
 
 Outcome: Upon the completion of the full cycle of this e-tivity, you will have formulated, in draft form, an overarching research question, and a plan of action to complete the research. In doing this, you will have **honed** your writing, research and analytical skills.
 
-### How Do You Know You Have Been a Good Researcher at the End of a Project?
+### How Do You Know You Have Been a Good Researcher at the End of a Project?:white_check_mark: 
+
+:pencil:Notes:
+
+- You don't have to find all the answers to all the questions you ask.
+
+### E-tivity 4:white_check_mark: 
+
+:red_circle:**Purpose and Task**
+
+**Purpose:** To reflect upon the values of a good question, and provide an outline research proposal.
+
+**Task:**  In conjunction with our commentary video below and the selected exemplar videos, please go back to your research question proposed during E-tivity 1 and consider again whether you are still happy with it. Is the question one you are still interested in and one you think worthy of devoting your time and energy to?
+
+After reflecting on your question, please compose an outline plan on how you would *follow on* from establishing your research question. Once you submit your outline plan, you then need to review a minimum of two proposals submitted by your fellow students. It is your individual responsibility to assess those proposals on the basis of their coherence, logic, and clarity.
+
+**Rubric**
+
+You will be evaluated on whether the submission was genuine. Your peers will also provide 50 words worth of feedback on the submission.
+
+Project title: An adjustment to my research question in E-tivity 1 and an outline research proposal of it.
+
+:pencil2:
+
+Hydrogen as a carbon-free fuel is expected to be fundamental clean energy in the future. At present, many researchers are studying how to blend hydrogen into natural gas to combust more effectively and safely, because the combustion of hydrogen-enriched natural gas has some combustion issues, like flame instability causing flashbacks and higher combustion temperature causing higher nitrogen oxides emissions levels. So how to prevent its explosion when the hydrogen is blended into natural gas and the hydrogen mixing ratio is higher than ever, how does the fuel of hydrogen addition impact the current domestic/ commercial/ industrial combustors, and then how to optimize these devices in order to make them could accommodate the higher hydrogen mixing ratio.
+
+Let me summarise the main research problems and its cause again:
+
+1. safety: some problems would emerge when hydrogen addition to natural gas is more than a quantity like flame instability which could damage the combustor and it will cause safety problems.
+2. Pollutant emission: the hydrogen combusting velocity is higher than natural gas, so it would cause higher nitrogen oxide emission because of nitrogen oxide is generated mainly by the higher temperature which is relevant to hydrogen blending with natural gas.
+
+After knowing the main problem, I made an outline based on what I've learned from this course in the past few days:
+
+1. The problem which is gonna study and get them solved is about how to make a low nitrogen oxides combustion to decrease the pollutant emission level, and how to make the more flexible and efficient combustor used in both industrial and domestic areas.
+2. To have a better approach to designing or optimizing the combustor, one needs to understand the combustion mechanism of hydrogen/ methane mixture fuels using a qualitative method.
+3. To have a quantitative description of the hydrogen/ methane combustion characteristics, it's necessary to propose an experimental plan which is made up of the research variables which are aimed to test, like the concentration of combustion products, what experiment devices are needed for physical research, and how to implement the experiment process properly and safely.
+4. We also need to figure out what improvements could we do and what's the research gap about hydrogen blending with natural/ gas is quite considerable before start to take on the point 2,3 upper.
+
+**(submitted)**
+
+1. Practice Peer-graded Assignment: E-tivity 4
+
+![image-20220731203611200](images/image-20220731203611200.png)
+
+**(submitted)**
+
+:pencil2:Feedback
+
+Please take the assignment seriously and pay attention to the course that you've chose before.
+
+2. Practice Peer-graded Assignment: E-tivity 4
+
+![](images/2022-07-31_204125.png)
+
+:pencil2:Feedback
+
+You answered detailedly, that's very good for the reader to have a quickly knowing about what your research problem is, and what scheme you would like to take to dig deeper into your research problems and then how you solve them if you write down these stuff and present it in your origin answer, and that would be better.
+
+**(submitted)**
+
+3. Practice Peer-graded Assignment: E-tivity 4
+
+![image-20220731205036648](images/image-20220731205036648.png)
+
+:pencil2:Feedback
+
+It's ok that your latter research plan is based on the problem you initially proposed. In your plan, you write about what you would plan to do about having a deeper understanding of your research project, however, you didn't mention any method that appeared in this course, so how do you improve your ideas and how to make an implement to your research instead of just reading literature review all the time?
+
+**(submitted)**
+
+My review about this course:
+
+:pencil2:After finishing this course, I've had a deeper understanding of what doing research means, how to do a research work. Thank for all the interviewers to share their thought alongside the whole course.
+
+**(submitted)**

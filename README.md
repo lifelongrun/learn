@@ -28,10 +28,11 @@ Here is the answer hiding in the graph, and *just for fun*:
 
 :bird:**Bird View** of the Courses I've taken Or been taking:
 
-- :closed_book: [Introduction to git and Github](/coursera/Git):heavy_check_mark:
-- :closed_book: [Basic Information Literacy](/coursera/Basic_information_literacy):heavy_check_mark:
-- :book:[Understanding Research Methods](/coursera/Understanding_Research_Methods):triangular_flag_on_post::memo:
-- :book:[Introduction to Research for Essay Writing](/coursera/Introduction_to_Research_for_Essay_Writing)
+- :closed_book: [Introduction to git and Github](coursera/Git):heavy_check_mark:
+- :closed_book: [Basic Information Literacy](coursera/Basic_information_literacy):heavy_check_mark:
+- :closed_book: [Understanding Research Methods](coursera/Understanding_Research_Methods):heavy_check_mark:
+- :book:[Introduction to Research for Essay Writing](coursera/Introduction_to_Research_for_Essay_Writing):triangular_flag_on_post::memo:
+- :book:[Design of Experiments Specialization](coursera/Design_of_Experiments_Specialization/README.md):triangular_flag_on_post::memo:
 
 ## Udemy
 
@@ -50,6 +51,8 @@ Here is the answer hiding in the graph, and *just for fun*:
 ## XUETANG ZAIXIAN
 
 - :book:[肖星的财务思维课](/xuetangzx/caiwusiwei):memo:
+- :book:[A Learning Course Thesis Research and Writing](xuetangzx/thesis_research_and_writing/README.md):triangular_flag_on_post::memo:
+- :book:[燃烧理论](xuetangzx/combustion_theory/README.md):triangular_flag_on_post::memo:
 
 ## Icourse
 
