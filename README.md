@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Regarding someone may inquiry: **why do you do this ?**
+Regarding someone may inquire: **why do you do this ?**
 
 Here is the answer hiding in the graph, and *just for fun*:
 
