@@ -42,7 +42,7 @@ Here is the answer hiding in the graph, and *just for fun*:
 - :book:[How to Write a Successful Research Paper](/udemy//How_to_Write_a_Successful_Research_Paper):memo:
 - :book:[100 Days of Code](/udemy//100days_python):memo:
 - :book:[English Grammar Launch: Upgrade your speaking and listening](/udemy/English_Grammar_Launch):memo:
-- :book:[Matlab](udemy\Master_MATLAB):memo:
+- :book:[Matlab](udemy/Master_MATLAB):memo:
 
 <!--
 
