@@ -367,7 +367,7 @@ set(ax(2), 'YTick', y2startlim:0.02:y2endlim)
 % 完成时间：2022.08.29下午
 ```
 
-Screen Shot:
+Screenshot:
 
 ![Proof](images/Snipaste_2022-08-29_21-53-36_done.png)
 
