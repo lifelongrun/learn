@@ -10,10 +10,6 @@ Here is the answer hiding in the graph, and *just for fun*:
 
 ## Coursera
 
-![Coursera Logo](coursera/Basic_information_literacy/images/Coursera-New-Banner.png)
-
----
-
 **Emoji** that I get used to noting:
 
 - :heavy_check_mark: represents the section (week X) is done (or finished) by myself. 
@@ -33,10 +29,9 @@ Here is the answer hiding in the graph, and *just for fun*:
 - :closed_book: [Understanding Research Methods](coursera/Understanding_Research_Methods):heavy_check_mark:
 - :book:[Introduction to Research for Essay Writing](coursera/Introduction_to_Research_for_Essay_Writing):triangular_flag_on_post::memo:
 - :book:[Design of Experiments Specialization](coursera/Design_of_Experiments_Specialization/README.md):triangular_flag_on_post::memo:
+- :book:[Grammar and Punctuation](coursera/Grammar_and_Punctuation/README.md):triangular_flag_on_post::memo:
 
 ## Udemy
-
-![udemy_logo](udemy/X-Best-Udemy-Sales-Courses-1024x669.png)
 
 - :closed_book:[Inkscape for Scientists and Engineers](/udemy/Inkscape_for_Scientists_and_Engineers):heavy_check_mark:
 - :book:[How to Write a Successful Research Paper](/udemy//How_to_Write_a_Successful_Research_Paper):memo:
