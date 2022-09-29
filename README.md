@@ -29,7 +29,7 @@ Here is the answer hiding in the graph, and *just for fun*:
 - :closed_book: [Understanding Research Methods](coursera/Understanding_Research_Methods):heavy_check_mark:
 - :book:[Introduction to Research for Essay Writing](coursera/Introduction_to_Research_for_Essay_Writing):triangular_flag_on_post::memo:
 - :book:[Design of Experiments Specialization](coursera/Design_of_Experiments_Specialization/README.md):triangular_flag_on_post::memo:
-- :book:[Grammar and Punctuation](coursera/Grammar_and_Punctuation/README.md):triangular_flag_on_post::memo:
+- :book:[Grammar and Punctuation](coursera/Grammar_and_punctuation/README.md):triangular_flag_on_post::memo:
 
 ## Udemy
 
